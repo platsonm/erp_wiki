@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-01T13:11:23-04:00
+
+====== new email notify.erb ======
+Created Monday 01 July 2013
+
+change of email notification template

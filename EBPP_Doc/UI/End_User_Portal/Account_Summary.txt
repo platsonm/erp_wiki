@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-06-28T14:15:16-04:00
+
+====== Account Summary ======
+Created Friday 28 June 2013
+
+Display a condensed view of current Account status.
+
+Has links to
+	- Last statement document
+	- Configure Auto Pay
+	- Last payment
+	- Pending/Scheduled payment
+	
+{{./pasted_image.png}}
+
+Configured in 
+	[[themes:widgets:bill pay:views:billing accounts:account home.html.erb]]
+

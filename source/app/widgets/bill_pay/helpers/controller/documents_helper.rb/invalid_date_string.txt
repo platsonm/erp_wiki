@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-10T15:17:22-04:00
+
+====== invalid date string ======
+Created Wednesday 10 July 2013
+
+validate date string format
+must be a digit in the format dd/dd/dddd

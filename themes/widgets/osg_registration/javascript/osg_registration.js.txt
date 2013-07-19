@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-12T16:00:18-04:00
+
+====== osg registration.js ======
+Created Friday 12 July 2013
+
+egistration page
+
+document.ready(
+	require fields
+	set custom messages
+	error placement
+
+	on accept_terms_conditions click call valid function for registration_form
+	[ [[source:public:javascript:jquery validator:jquery.validate.js:valid]] ] 
+
+)

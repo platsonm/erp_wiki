@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-05T15:46:25-04:00
+
+====== erp app ======
+Created Friday 05 July 2013
+
+[[+widget_proxy_controller.rb]]

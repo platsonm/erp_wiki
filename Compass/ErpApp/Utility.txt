@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-16T15:16:23-04:00
+
+====== Utility ======
+Created Tuesday 16 July 2013
+
+All definitions are in 
+	[[source:public:javascript:erp app:utility.js]]
+
+[[+sessionTimeout]]
+[[+confirmBrowserNavigation]] 
+[[+disableBrowserNavigation]] 
+[[+disableEnterSubmission]]
+[[+evaluateScriptTags]]
+[[+promptReload]]
+[[+handleFormFailure]]
+[[+randomString]]
+[[+roundNumber]]
+[[+numbersOnly]]
+[[+clone]]
+[[+addCommas]]
+[[+isBlank]]
+[[+removeDublicates]]
+[[+isArray]]
+[[+wait]]
+[[+limitTextArea]]
+[[+formatCurrency]]
+
+

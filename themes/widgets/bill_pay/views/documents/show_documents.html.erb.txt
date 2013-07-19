@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-06-28T17:27:11-04:00
+
+====== show documents.html.erb ======
+Created Friday 28 June 2013
+
+desktop theme location
+	themes/widgets/bill_pay/views/documents/show_documents.html.erb
+
+physical location
+	app/widgets/bill_pay/views/documents/show_documents.html.erb
+
+linkback
+	[[[EBPP Doc:UI:End User Portal:Statement History]]]

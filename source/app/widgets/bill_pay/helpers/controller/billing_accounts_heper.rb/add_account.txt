@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-10T14:47:11-04:00
+
+====== add account ======
+Created Wednesday 10 July 2013
+
+populate @website data from [[database:Website]] . find_by_host ( request.host_with_port )
+populate @configuration from @website configurations
+populate @account_number from params
+
+search finantial_txn_accounts tables for billing account with id
+
+if
+	validate account
+	check if account already associated with another user
+	if
+		update account
+		render update with result hash ( view => billing_accounts/refresh_page ) 
+	else 
+		render update with result hash ( view => billing_accounts/add_account_home_errors ) 
+else
+	render update with result hash ( view => billing_accounts/add_account_home_errors ) 

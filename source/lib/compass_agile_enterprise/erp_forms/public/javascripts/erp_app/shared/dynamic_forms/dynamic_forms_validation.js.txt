@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-16T12:18:12-04:00
+
+====== dynamic forms validation.js ======
+Created Tuesday 16 July 2013
+
+create new [[source:public:javascript:erp app:utility.js:OnDemandLoadByAjax]] object and load javascripts/extjs/vtypes.js
+
+functions
+	initRegex ( pattern ) - evaluate the pattern or 
+	validateRegex ( v , pattern ) - test v based on pattern
+	validateEmail ( v ) - validate email based on email_regex defined in ErpTechSvcs.Config object

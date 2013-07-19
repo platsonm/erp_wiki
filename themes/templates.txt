@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-02T10:53:36-04:00
+
+====== templates ======
+Created Tuesday 02 July 2013
+
+site layout templates
+[[+layouts]]
+[[+menus]]
+
+active user email update notification
+[[+email update mailer]]
+
+pre-login mailers
+[[+user mailer]]
+
+[[+single_sign_on]]

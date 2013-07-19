@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-02T11:21:06-04:00
+
+====== settings ======
+Created Tuesday 02 July 2013
+
+[[+update_password_messages]]
+
+[[+settings list.html.erb]]
+[[+show setup recurring payment.html.erb]]
+[[+change_password.html.erb]]
+[[+notification_preferences.html.erb]]
+[[+manage_paperless_billing.html.erb]]
+

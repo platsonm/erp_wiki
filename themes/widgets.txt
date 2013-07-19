@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-06-28T15:43:54-04:00
+
+====== widgets ======
+Created Friday 28 June 2013
+
+widgets include [[templates:layouts:knitkit:base.html.erb]] for base script and style includes.
+
+[[+bill_pay]]
+[[+one_time_payment]]
+[[+osg_registration]]

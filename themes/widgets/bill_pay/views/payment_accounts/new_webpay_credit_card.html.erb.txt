@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-06-28T17:04:19-04:00
+
+====== new webpay credit card.html.erb ======
+Created Friday 28 June 2013
+
+Create IFrame for displaying Credit Card account create section 
+	for interacting with Prism Pay API
+
+called from => [[source:app:widgets:bill pay:helpers:controller:payment accounts helper.rb]]
+
+linkback
+	[[[EBPP Doc:UI:End User Portal:Add A Payment Account:Add Payment Type Credit Card]]]
+	

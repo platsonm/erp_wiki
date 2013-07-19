@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-05T14:48:54-04:00
+
+====== index.html.erb ======
+Created Friday 05 July 2013
+
+some form of error message display

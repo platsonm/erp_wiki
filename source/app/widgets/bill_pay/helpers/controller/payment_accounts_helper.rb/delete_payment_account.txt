@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-10T16:09:32-04:00
+
+====== delete payment account ======
+Created Wednesday 10 July 2013
+
+test current_user_is_primary_of_payment_account, otherwise raise error : could
+	not delete because current user is not the primary user of the account.
+if the user is primary account then clean_up_payment_account_for_delete,
+	otherwise raise error : could not delete because associated payments
+	could not be canceled.
+if account is cleaned up remove payment account and clear session of account
+	data then log the delete action and redirect the user, otherwise raise
+	error : could not delete because associated payments could not be canceled
+	
+render update { view => [[/payment_accounts/payment_account_list]] }

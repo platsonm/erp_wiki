@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-06-28T16:08:48-04:00
+
+====== views ======
+Created Friday 28 June 2013
+
+[[+billing_accounts]]
+[[+payment_accounts]]
+[[+documents]]
+[[+payments]]
+[[+settings]]
+[[+notifications]]
+
+[[+p.menu.html.erb]]

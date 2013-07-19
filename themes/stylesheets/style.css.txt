@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-02T10:48:06-04:00
+
+====== style.css ======
+Created Tuesday 02 July 2013
+
+General site style
+
+**.bil_pay_outer_info_box** 
+	style the container for bill pay UI space
+	
+**.bill_pay_outer_info_box .submit, .bill_pay_outer_info_box .button, .login_form .submit, .login_form .button**
+	style for submit buttons
+	
+**#nav-menu**
+	top-level tab menu
+	
+**.footer**
+	bottom footer bar
+	

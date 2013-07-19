@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-01T12:27:13-04:00
+
+====== activation needs email.html.erb ======
+Created Monday 01 July 2013
+
+create user confirmation email template

@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-06-28T14:32:16-04:00
+
+====== Make A Payment ======
+Created Friday 28 June 2013
+
+Facilitate the payment of invoices.
+
+Has available actions
+	- Select Account from which to pay
+	- Redirect to [[Add A Payment Account]] when first
+		payment account has yet to be created
+
+**For a single account** 
+{{./pasted_image001.png}}
+Configured in 
+	[[themes:widgets:bill pay:views:payments:accounts:single account home.html.erb]]
+
+
+**For a linked account**
+{{./pasted_image004.png}}
+Configured in 
+	[[themes:widgets:bill pay:views:payments:accounts:multi_account_home.html.erb]]
+
+
+**Payment confirmation section**
+{{./pasted_image002.png}}
+Configured in 
+	[[themes:widgets:bill pay:views:payments:confirmation.html.erb]]
+
+{{./pasted_image003.png}}
+	
+Configured in 
+	[[themes:widgets:bill pay:views:payments:confirmation.html.erb]]
+

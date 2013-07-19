@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-15T15:07:20-04:00
+
+====== utility.js ======
+Created Monday 15 July 2013
+
+contains the following methods and classes
+	Compass.ErpApp.Utility.SessionTimeout : session timeout handling class
+		setForceRedirectTimer
+		setWarnTimer
+		setupSessionTimeout
+		reset
+		
+	Compass.ErpApp.Utility
+		confirmBrowserNavigation : onbefore unload handler
+		disableEnterSubmission : disable form submission on enter keypress
+		evaluateScriptTags : evaluate string, eval javascript within script tags
+		promptReload : confirm navigating away from page
+		handleFormFailure : handle script failure action
+		randomString : generate random string of length
+		roundNumber : generate random number of num
+		numbersOnly : evaludate strong for number only
+		clone : clone object
+		addCommas : format numbers to have commas every 3rd digit
+		isBlank : is value empty?
+		removeDublicates : purge array of duplicates
+		isArray :is an array?
+		wait : pause for period of time
+		limitTextArea : limit number of characters in a text area
+		formatCurrency : format num to currency string
+
+	[[+OnDemandLoadByAjax]] ( component , callback ) object - append javascript to page from ajax
+
+
+
+

@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-10T11:40:51-04:00
+
+====== account home ======
+Created Wednesday 10 July 2013
+
+populate @website data from [[database:Website]] . find_by_host ( request.host_with_port )
+populate @configuration from @website configurations
+
+populate @accounts from current_user_party billing_accounts
+populate @account with BillingAccount by id or @accounts first
+
+render update with result hash ( view => billing_accounts/account_home ) 

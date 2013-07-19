@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-01T17:21:05-04:00
+
+====== payment history.html.erb ======
+Created Monday 01 July 2013
+
+desktop theme location
+	themes/widgets/bill_pay/views/payments/payment_history.html.erb
+
+physical location
+	app/widgets/bill_pay/views/payments/payment_history.html.erb
+
+linkback
+	[[[EBPP Doc:UI:End User Portal:Payment History]]]

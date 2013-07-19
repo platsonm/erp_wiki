@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-03T11:56:35-04:00
+
+====== payment accounts helper.rb ======
+Created Wednesday 03 July 2013
+
+def
+	[[+payment_accounts]]
+	[[+new_payment_account]]
+	[[+add_payment_account]]
+	[[+delete_payment_account]]
+	
+	
+	
+	

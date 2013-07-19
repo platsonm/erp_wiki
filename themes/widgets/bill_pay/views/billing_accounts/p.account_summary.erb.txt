@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-08T15:02:37-04:00
+
+====== p.account summary.erb ======
+Created Monday 08 July 2013
+
+Build UI elements: statement date, due date, statement balance, last payment, pending & scheduled payment and auto pay
+
+Has links for configure auto pay, statement, payment history and make a payment.

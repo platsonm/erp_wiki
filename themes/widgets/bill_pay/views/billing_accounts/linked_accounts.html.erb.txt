@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-03T14:57:56-04:00
+
+====== linked accounts.html.erb ======
+Created Wednesday 03 July 2013
+
+desktop theme location
+	themes/widgets/bill_pay/views/billing_accounts/linked_accounts.html.erb
+
+physical location
+	app/widgets/bill_pay/views/billing_accounts/linked_accounts.html.erb
+
+linkback
+	[[[EBPP Doc:UI:End User Portal:Linked Accounts]]]
+	
+**Layout**
+title
+script : BillPayWidgetMenu.setSelectedNav('linked_accounts_link')
+dynamic_extjs_grid (
+		setupUrl =>linked_accounts_grid_setup
+		dataUrl =>linked_accounts_grid_data
+display: total amount due and last payment made with link to payment history
+
+

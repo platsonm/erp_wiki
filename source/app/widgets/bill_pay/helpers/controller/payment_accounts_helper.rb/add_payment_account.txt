@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-10T16:03:42-04:00
+
+====== add payment account ======
+Created Wednesday 10 July 2013
+
+case account_type
+for bank accounts
+	render update { view => /payment_accounts/new_bank_account }
+
+for credit cards
+	render update { view => /payment_accounts/new_credit_card }
+
+for webpay add profile
+	render update { view => /payment_accounts/webpay_profile_iframe }

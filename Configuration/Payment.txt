@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-16T16:24:33-04:00
+
+====== Payment ======
+Created Tuesday 16 July 2013
+
+Multiple Payment Warning Theshold: [ 0 , 1 ]
+	- warn user if making a payment while another payment is still being processed
+
+Schedule Payment Warning Threshold: [ 0 , 1 ]
+	- warn user if making a payment while another payment is scheduled to be made
+

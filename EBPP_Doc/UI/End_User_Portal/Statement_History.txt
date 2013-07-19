@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-06-28T17:21:29-04:00
+
+====== Statement History ======
+Created Friday 28 June 2013
+
+Display a grid populated by statement history
+
+{{./pasted_image.png}}
+
+Configured in 
+	[[themes:widgets:bill pay:views:documents:show documents.html.erb]]

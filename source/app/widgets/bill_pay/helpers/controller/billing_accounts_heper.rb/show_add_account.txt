@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-10T13:43:12-04:00
+
+====== show add account ======
+Created Wednesday 10 July 2013
+
+populate @accounts from current_user_party billing_accounts
+populate @website with populate @website data from [[database:Website]] . find_by_host ( request.host_with_port )
+populate @configuration from @website configurations
+
+render update with result hash ( view => billing_accounts/show_add_account ) 

@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-02T14:29:26-04:00
+
+====== One Time Payment ======
+Created Tuesday 02 July 2013
+
+Initial One Time payment screen
+{{./pasted_image.png}}
+
+Account found
+{{./pasted_image002.png}}
+
+Selecting Bank Account payment option
+{{./pasted_image003.png}}
+
+Select Credit Card payment option
+{{./pasted_image004.png}}
+
+Configured in 
+	[[themes:widgets:one_time_payment:views:index.html.erb]]
+	

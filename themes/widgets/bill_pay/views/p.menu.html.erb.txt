@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-02T17:16:27-04:00
+
+====== p.menu.html.erb ======
+Created Tuesday 02 July 2013
+
+
+physical location
+	app/widgets/bill_pay/views/_menu.html.erb
+
+generate top-level tab menu
+
+Linked Accounts
+	**build_widget_url ( :linked_accounts )**
+Account Summary
+	**build_widget_url ( :account_home )**
+Make a Payment
+	**build_widget_url ( :make_payment )**
+Payment Hisotry
+	**build_widget_url ( :payment_history )**
+Statement History
+	**build_widget_url ( :documents )**
+Payment Accounts
+	**build_widget_url ( :payment_accounts )**
+Settings
+	**build_widget_url ( :show_settings )**

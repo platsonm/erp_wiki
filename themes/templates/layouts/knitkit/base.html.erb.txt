@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-02T15:46:57-04:00
+
+====== base.html.erb ======
+Created Tuesday 02 July 2013
+
+DOCTYPE "-//W3C//DTD XHTML 1.0 Strict//EN"
+
+js
+	jquery_plugins/jquery.address.min.js
+	jquery_plugins/jquery.loadmask.min.js
+	[[source:public:javascript:jquery validator:jquery.validate.js]]
+	[[source:public:javascript:jquery validator:additional-methods.js]]
+	[[source:public:javascript:erp app:jquery support.js]]
+	[[source:public:javascript:erp app:utility.js]]
+	[[source:public:javascript:erp app:widgets.js]]
+	[[source:lib:compass agile enterprise:erp forms:public:javascripts:erp app:shared:dynamic forms:dynamic forms validation.js]]
+	[[source:lib:compass agile enterprise:erp app:public:javascript:erp app:shared:dynamic editable grid loader panel.js]]
+	[[source:lib:compass agile enterprise:erp app:public:javascript:erp app:shared:dynamic editable grid.js]]
+	ajax_pagination.js
+	datepicker.js
+
+css
+	jquery_plugins/jquery.loadmask.css
+	erp_app/utility.js
+	extjs/resources/css/knitkit_extjs_4.css
+	datepicker.css
+	style.css
+	tables.css
+
+extjs
+	ext-all-gray.css
+
+Basic page layout template
+	- meta
+	- header
+	- includes
+	- page skeleton

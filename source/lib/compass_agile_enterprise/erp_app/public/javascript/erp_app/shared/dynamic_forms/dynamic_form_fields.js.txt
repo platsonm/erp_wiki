@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-16T13:16:52-04:00
+
+====== dynamic form fields.js ======
+Created Tuesday 16 July 2013
+
+Define object
+	[[Compass:ErpForms:DynamicForms:DynamicRelatedComboBox]]
+	
+	[[Compass:ErpForms:DynamicForms:DynamicRelatedSearchBox]]

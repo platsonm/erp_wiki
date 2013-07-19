@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-05T15:41:35-04:00
+
+====== render widget ======
+Created Friday 05 July 2013
+
+create the div and load the widget [ widget_obj.process ( action.to_s ) ] inside it.
+call javascript to initialize it on the UI.

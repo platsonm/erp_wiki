@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-03T11:10:25-04:00
+
+====== build widget url ======
+Created Wednesday 03 July 2013
+
+( action , id = nil , params = {} )
+
+build a path to the widget action, append the id and params specified

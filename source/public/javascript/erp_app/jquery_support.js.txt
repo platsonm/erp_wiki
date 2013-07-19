@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-15T14:58:00-04:00
+
+====== jquery support.js ======
+Created Monday 15 July 2013
+
+append function to Compass.ErpApp.JQuerySupport : handleHtmlUpdateResponse
+handle update callback, validate json return string, update data div

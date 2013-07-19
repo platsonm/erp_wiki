@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-03T14:54:24-04:00
+
+====== Linked Accounts ======
+Created Wednesday 03 July 2013
+
+UI displaying a grid with multiple Linked accounts.
+Other part of the Bill Pay app also have additional UI elements associated with linked account display/manipulation.
+
+{{./pasted_image.png}}
+
+Configured in 
+	[[themes:widgets:bill pay:views:billing accounts:linked_accounts.html.erb]]

@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-16T14:07:53-04:00
+
+====== DynamicRelatedComboBox ======
+Created Tuesday 16 July 2013
+
+extends Ext.form.field.ComboBox
+alias widget.related_combobox
+
+constructor ( config )
+	.displayField
+	.fields
+	.extraParams
+	.url (default '/erp_forms/erp_app/desktop/dynamic_forms/forms/related_field' )
+

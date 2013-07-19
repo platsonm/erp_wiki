@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-06-28T16:04:58-04:00
+
+====== p.new bank account partial.html.erb ======
+Created Friday 28 June 2013
+(note: since the page can not start with _ the convention p. implies a partial
+
+physical location
+	app/widgets/bill_pay/views/payment_accounts/_new_bank_account_partial.html.erb
+
+display UI for adding a bank account
+
+linkback
+	[[[new bank account.html.erb]]]

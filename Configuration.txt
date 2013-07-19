@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-16T16:23:02-04:00
+
+====== Configuration ======
+Created Tuesday 16 July 2013
+
+Access configuration menu from:
+Knitkit -> Websites -> [ website ] -> { right-click menu } -> Configure
+{{./pasted_image.png}}
+
+[[+Auto Pay]]
+[[+Notifications]]
+[[+Payment]]
+[[+Report Search]]
+[[+SSO Search]]
+[[+User]]
+[[+Website Setup]]

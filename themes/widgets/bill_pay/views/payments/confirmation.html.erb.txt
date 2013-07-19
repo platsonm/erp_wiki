@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-08T11:40:07-04:00
+
+====== confirmation.html.erb ======
+Created Monday 08 July 2013
+
+desktop theme location
+	themes/widgets/bill_pay/views/payments/confirmation.html.erb
+
+physical location
+	app/widgets/bill_pay/views/payments/confirmation.html.erb
+
+linkback
+	[[[EBPP Doc:UI:End User Portal:Make A Payment]]]

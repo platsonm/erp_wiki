@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-08T16:00:08-04:00
+
+====== tag helper.rb ======
+Created Monday 08 July 2013
+
+ERP Helper for creating link tags
+render a path for the desired Widget element
+
+def
+	[[+link_to_remote]]
+	[[+form_remote_tag]]
+	

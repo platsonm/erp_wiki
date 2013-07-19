@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-12T15:53:38-04:00
+
+====== javascript ======
+Created Friday 12 July 2013
+
+[[+jquery_validator]]
+

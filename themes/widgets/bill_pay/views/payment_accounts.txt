@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-06-28T15:44:38-04:00
+
+====== payment accounts ======
+Created Friday 28 June 2013
+
+[[+p.new bank account partial.html.erb]]
+[[+p.new_webpay_credit_card_partial.html.erb]]
+[[+new_bank_account.html.erb]]
+[[+new_payment_account.html.erb]]
+[[+new_webpay_credit_card.html.erb]]
+[[+edit_bank_account.html.erb]]
+[[+payment_account_list.html.erb]]
+[[+webpay_profile_iframe.html.erb]]
+
+
+

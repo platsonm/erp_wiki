@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-06-28T14:11:06-04:00
+
+====== End User Portal ======
+Created Friday 28 June 2013
+
+The End User portal displays Client/Customer account information, account summary, payment options and other historicals.
+
+The following action are available from the Login Screen
+[[+Login]]
+[[+One Time Payment]]
+
+The following screens are available for the user.
+[[+Linked Accounts]] (when available)
+[[+Account Summary]]
+[[+Make A Payment]]
+[[+Payment History]]
+[[+Statement History]]
+[[+Payment Accounts]]
+[[+Settings]]
+
+Top Menu includes
+[[+Account Home]]
+[[+FAQ]]
+[[+Contact Us]]
+
+Footer
+[[+Privicy Policy]]
+[[+Terms and Conditions]]

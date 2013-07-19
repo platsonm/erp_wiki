@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-10T14:57:42-04:00
+
+====== confirm unlink account ======
+Created Wednesday 10 July 2013
+
+render update with result hash ( view => billing_accounts/confirm_account_unlink ) 

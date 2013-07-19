@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-06-28T16:10:54-04:00
+
+====== payment account list.html.erb ======
+Created Friday 28 June 2013
+
+desktop theme location
+	themes/widgets/bill_pay/views/payment_accounts/payment_account_list.html.erb
+
+physical location
+	app/widgets/bill_pay/views/payment_accounts/payment_account_list.html.erb
+
+Display:
+	account display grid: dynamic_extjs_grid
+		using :payment_accounts_grid_setup, payment_accounts_grid_data
+	create a link to add account -  **build_widget_url ( :new_payment_account )**
+
+linkback
+	[[[EBPP Doc:UI:End User Portal:Payment Accounts]]]

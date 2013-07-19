@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-01T17:19:12-04:00
+
+====== Payment History ======
+Created Monday 01 July 2013
+
+Display a grid populated by payment history
+
+{{./pasted_image.png}}
+
+scroll further right to show 'View Details' and 'Cancel' options
+{{./pasted_image001.png}}
+
+'View Details' display
+{{./pasted_image002.png}}
+
+Configured in 
+	[[themes:widgets:bill pay:views:payments:payment history.html.erb]]

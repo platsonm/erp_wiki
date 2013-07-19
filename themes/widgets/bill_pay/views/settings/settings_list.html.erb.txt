@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-01T09:21:53-04:00
+
+====== settings list.html.erb ======
+Created Monday 01 July 2013
+
+desktop theme location
+	themes/widgets/bill_pay/views/settings/settings_list.html.erb
+
+physical location
+	app/widgets/bill_pay/views/settings/settings_list.html.erb
+
+Configure Auto Pay
+	**build_widget_url ( :recurring_payments )**
+Change Password
+	**build_widget_url ( :show_change_password )**
+Change Notification Preferences
+	**build_widget_url ( :show_notification_preferences )**
+Change Contact Information
+	**build_widget_url ( :show_contact_info_management )**
+Manage Linked Accounts
+	**build_widget_url ( :show_add_account )**
+Manage Paperless Billing
+	**build_widget_url ( :manage_paperless_billing )**
+
+linkback
+	[[[EBPP Doc:UI:End User Portal:Settings]]]

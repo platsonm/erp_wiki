@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-06-28T16:08:59-04:00
+
+====== billing accounts ======
+Created Friday 28 June 2013
+
+[[+account_home.html.erb]]
+[[+linked accounts.html.erb]]
+
+[[+p.account_info_line.html.erb]]
+[[+p.account_summary.erb]]
+
+

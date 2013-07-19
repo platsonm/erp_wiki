@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-05T15:46:35-04:00
+
+====== widget proxy controller.rb ======
+Created Friday 05 July 2013
+
+def
+	[[+index]]
+

@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-12T15:54:38-04:00
+
+====== jquery.validate.js ======
+Created Friday 12 July 2013
+
+JQuery validation plug-in
+
+extends JQuery
+
+[[+validate]] ( options )
+[[+valid]] ()
+[[+removeAttrs]] ( attributes )
+[[+rules]] ( command, argument )
+
+other
+

@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-08T16:05:18-04:00
+
+====== link to remote ======
+Created Monday 08 July 2013
+
+append remote parameter to option and do link_to

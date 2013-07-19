@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-03T11:07:25-04:00
+
+====== widget helper.rb ======
+Created Wednesday 03 July 2013
+
+ERP Helper for Widgets
+render a path for the desired Widget element
+
+def
+
+[[+render_widget]]
+[[+build_widget_url]] ( action , id = nil , params = {} )
+[[+widget_result_id]]
+[[+include_widgets]]
+[[+get_widget_action]]
+[[+set_widget_params]]

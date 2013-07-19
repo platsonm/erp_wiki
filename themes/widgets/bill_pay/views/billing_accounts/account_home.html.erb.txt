@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-06-28T16:09:14-04:00
+
+====== account home.html.erb ======
+Created Friday 28 June 2013
+
+desktop theme location
+	themes/widgets/bill_pay/views/billing_accounts/account_home.html.erb
+
+physical location
+	app/widgets/bill_pay/views/billing_accounts/account_home.html.erb
+
+linkback
+	[[[EBPP Doc:UI:End User Portal:Account Summary]]]
+
+**Layout**
+title
+script : BillPayWidgetMenu.setSelectedNav('account_summary_link')
+render partial => [[p.account info line.html.erb]]
+
+if the account is not empty
+render partial => [[p.account summary.erb]]
+
+

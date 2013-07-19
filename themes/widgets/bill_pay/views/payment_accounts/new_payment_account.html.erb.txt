@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-06-28T16:07:39-04:00
+
+====== new payment account.html.erb ======
+Created Friday 28 June 2013
+
+desktop theme location
+	themes/widgets/bill_pay/views/payment_accounts/new_payment_account.html.erb
+
+physical location
+	app/widgets/bill_pay/views/payment_accounts/new_payment_account.html.erb
+
+Display:
+	Render options for adding
+		Bank Account => source:app:bill pay:views:payment accounts:new bank account.html.erb
+		Credit Card =>source:app:bill pay:views:payment accounts:new webpay credit card.html.erb
+	render partial by default => source:app:bill pay:views:payment accounts:p.new bank account partial.html.erb
+
+linkback
+	[[[EBPP Doc:UI:End User Portal:Add A Payment Account]]]

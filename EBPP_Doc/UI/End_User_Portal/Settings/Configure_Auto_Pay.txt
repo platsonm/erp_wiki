@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-01T14:16:44-04:00
+
+====== Configure Auto Pay ======
+Created Monday 01 July 2013
+
+Disable Automatic Payments option
+{{./pasted_image.png}}
+
+Enabled Automatic Payments option
+{{./pasted_image001.png}}
+
+Configured in 
+	[[themes:widgets:bill pay:views:settings:show setup recurring payment.html.erb]]

@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-06-28T14:56:46-04:00
+
+====== Add A Payment Account ======
+Created Friday 28 June 2013
+
+UI for adding creating a Payment Account
+
+Has available actions 
+	add [[+Add Payment Type Bank Account]]
+	add [[+Add Payment Type Credit Card]]
+
+{{./pasted_image.png}}
+
+Configured in 
+	[[themes:widgets:bill pay:views:payment accounts:new payment account.html.erb]]
+
+

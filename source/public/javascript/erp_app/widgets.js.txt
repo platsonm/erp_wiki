@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-15T16:08:11-04:00
+
+====== widgets.js ======
+Created Monday 15 July 2013
+
+define Compass.ErpApp.Widgets object
+
+LoadedWidgets : []
+
+AvailableWidgets : []
+
+setup ( uuid , name , action , params , addToLoaded )
+	request widget fro url 
+	url = '/erp_app/widgets/' + name + '/' + action + '/' + uuid
+	on success evaluate the returned script and apped widget to dom.
+
+refreshWidgets ( )
+	restart each widget with their stored parameters
+
+refreshWidget ( name , action )
+	restart a specific widget matching name/action with its stored parameters
+	
+setupAjaxNavigation
+
+setupAjaxNavigation ( css_class , home_url )

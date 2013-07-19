@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-02T11:27:30-04:00
+
+====== Change Notification Preferences ======
+Created Tuesday 02 July 2013
+
+{{./pasted_image.png}}
+
+Configured in 
+	[[themes:widgets:bill pay:views:settings:notification preferences.html.erb]]

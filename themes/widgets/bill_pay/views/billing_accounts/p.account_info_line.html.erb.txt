@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-08T14:51:47-04:00
+
+====== p.account info line.html.erb ======
+Created Monday 08 July 2013
+
+Build UI elements: account number and name pair for the logged-in account.
+
+For linked accounts display a select box inplace of account number.

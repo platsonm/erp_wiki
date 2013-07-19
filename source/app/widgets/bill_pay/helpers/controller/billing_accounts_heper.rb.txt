@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-03T11:30:25-04:00
+
+====== billing accounts heper.rb ======
+Created Wednesday 03 July 2013
+
+module BillingAccountsHelper
+
+def
+	[[+account_home]]
+	[[+show_add_account]]
+	[[+accounts_grid_data]]
+	[[+accounts_grid_setup]]
+	[[+add_account]]
+	[[+update_recurring_payment_enabled]]
+	[[+confirm_unlink_account]]
+	[[+unlink_account]]
+	[[+page]]
+	[[+per_page]]
+	[[+validate_account_fields]]

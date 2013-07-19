@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-10T16:02:52-04:00
+
+====== new payment account ======
+Created Wednesday 10 July 2013
+
+render update { view => [[/payment_accounts/new_payment_account]] }

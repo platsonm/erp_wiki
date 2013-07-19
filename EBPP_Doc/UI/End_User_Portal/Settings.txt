@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-01T09:16:13-04:00
+
+====== Settings ======
+Created Monday 01 July 2013
+
+Settings to update user information include the following options
+
+[[+Configure Auto Pay]]
+[[+Change Notification Preferences]]
+[[+Manage Linked Accounts]]
+[[+Change Password]]
+[[+Change Contact Information]]
+[[+Manage Paperless Billing]]
+
+{{./pasted_image001.png}}
+
+Configured in 
+	[[themes:widgets:bill pay:views:settings:settings list.html.erb]]
