@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2013-07-31T06:55:09-04:00
+
+====== update process ======
+Created Wednesday 31 July 2013
+
+Steps
+	1. git status: check for files with conflicts
+	2. git diff: check the differences
+	3. git stash: stash those files specific to configuration
+	4. git pull: pull new source from repository
+	5. git stash: return stashed config files 
+
+
+Optional Commands
+	a. git reset HEAD: reset the git status of files that have been touched but have no real changes
